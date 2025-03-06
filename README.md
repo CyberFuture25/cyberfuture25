@@ -1,3 +1,4 @@
+<a >![imagen de portada Github](Portada_coder_github.png)</a>
 <h2 align="left">Hi 👋! My name is Mickey Aranguren... and I'm a FullStack Developer from Peru.</h2>
 
 ###
@@ -8,7 +9,9 @@
 </div>
 
 ###
+<h3>Mickey</h3></p>
 
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -84,6 +87,7 @@
 </div>
 
 ###
+<h3>Tecnologías Adquiridas</h3></p>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -109,8 +113,9 @@
 
 ###
 
+
 <div align="center">
   <img height="300" src="https://i.pinimg.com/originals/69/0e/84/690e8487ca7d7ba7dbc2d8a980fe66e8.gif"  />
 </div>
-
+<h3>░y░o░u░r░ ░a░r░e░ ░n░o░t░ ░y░o░u░r░ ░j░o░b░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░h░o░w░ ░m░u░c░h░ ░m░o░n░e░y░ ░y░o░u░ ░h░a░v░e░ ░i░n░ ░t░h░e░ ░b░a░n░k░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░t░h░e░ ░c░a░r░ ░y░o░u░ ░d░r░i░v░e░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░t░h░e░ ░c░o░n░t░e░n░t░s░ ░o░f░ ░y░o░u░r░ ░w░a░l░l░e░t░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░y░o░u░r░ ░f░u░c░k░i░n░ ░k░a░k░i░s░ ░y░o░u░ ░a░r░e░ ░t░h░e░ ░a░l░l░ ░s░i░n░g░i░n░g░ ░,░a░l░l░ ░d░a░n░c░i░n░g░ ░c░r░a░p░ ░o░f░ ░t░h░e░ ░w░o░r░l░d░</h3>
 ###
