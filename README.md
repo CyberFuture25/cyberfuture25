@@ -114,7 +114,7 @@
 
 
 <div align="center">
-  <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d294b80-1a73-46b4-a1ed-040c57162967/djhvq2v-3995c914-0541-44c1-aaf4-f811dcf08a33.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkMjk0YjgwLTFhNzMtNDZiNC1hMWVkLTA0MGM1NzE2Mjk2N1wvZGpodnEydi0zOTk1YzkxNC0wNTQxLTQ0YzEtYWFmNC1mODExZGNmMDhhMzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JeCpxzAcv8cBeCKiK0Ji-l1pkJuRYLHnbNhBA1Lf-nE"  />
+  <img height="300" src="tylerduden.gif"  />
 </div>
 <h3>░y░o░u░r░ ░a░r░e░ ░n░o░t░ ░y░o░u░r░ ░j░o░b░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░h░o░w░ ░m░u░c░h░ ░m░o░n░e░y░ ░y░o░u░ ░h░a░v░e░ ░i░n░ ░t░h░e░ ░b░a░n░k░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░t░h░e░ ░c░a░r░ ░y░o░u░ ░d░r░i░v░e░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░t░h░e░ ░c░o░n░t░e░n░t░s░ ░o░f░ ░y░o░u░r░ ░w░a░l░l░e░t░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░y░o░u░r░ ░f░u░c░k░i░n░ ░k░a░k░i░s░ ░y░o░u░ ░a░r░e░ ░t░h░e░ ░a░l░l░ ░s░i░n░g░i░n░g░ ░,░a░l░l░ ░d░a░n░c░i░n░g░ ░c░r░a░p░ ░o░f░ ░t░h░e░ ░w░o░r░l░d░</h3>
 
