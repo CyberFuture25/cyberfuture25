@@ -114,7 +114,7 @@
 
 
 <div align="center">
-  <img height="300" src="tylerdudenfinal.gif"  />
+  <a >(tylerdurdenfinal.gif)</a>
 </div>
 <h3>░y░o░u░r░ ░a░r░e░ ░n░o░t░ ░y░o░u░r░ ░j░o░b░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░h░o░w░ ░m░u░c░h░ ░m░o░n░e░y░ ░y░o░u░ ░h░a░v░e░ ░i░n░ ░t░h░e░ ░b░a░n░k░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░t░h░e░ ░c░a░r░ ░y░o░u░ ░d░r░i░v░e░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░t░h░e░ ░c░o░n░t░e░n░t░s░ ░o░f░ ░y░o░u░r░ ░w░a░l░l░e░t░ ░y░o░u░ ░a░r░e░ ░n░o░t░ ░y░o░u░r░ ░f░u░c░k░i░n░ ░k░a░k░i░s░ ░y░o░u░ ░a░r░e░ ░t░h░e░ ░a░l░l░ ░s░i░n░g░i░n░g░ ░,░a░l░l░ ░d░a░n░c░i░n░g░ ░c░r░a░p░ ░o░f░ ░t░h░e░ ░w░o░r░l░d░</h3>
 
